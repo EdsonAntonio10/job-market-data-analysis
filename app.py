@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import plotly.express as px
 
-st.write("IT WORKS 🚀")
+
 
 
 df = pd.read_csv("jobs_clean_final.csv")
